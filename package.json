@@ -1,6 +1,10 @@
 {
   "name": "quote-generator",
+<<<<<<< HEAD
   "homepage": "https://raheem-muizz1.githun.io/quote-generator",
+=======
+  "homepage": "https://raheem-muizz1.githun.io/quote-generator"
+>>>>>>> 32be7a7c0762466fffc76078cb8c3f9849301645
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +21,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "eject": "react-scripts eject",
+=======
+    "eject": "react-scripts eject"
+>>>>>>> 32be7a7c0762466fffc76078cb8c3f9849301645
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
